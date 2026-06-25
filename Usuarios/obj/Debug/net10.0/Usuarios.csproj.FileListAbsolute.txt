@@ -1,0 +1,15 @@
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\obj\Debug\net10.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\obj\Debug\net10.0\Usuarios.AssemblyInfoInputs.cache
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\obj\Debug\net10.0\Usuarios.AssemblyInfo.cs
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\obj\Debug\net10.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\obj\Debug\net10.0\Usuarios.sourcelink.json
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\bin\Debug\net10.0\Usuarios.exe
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\bin\Debug\net10.0\Usuarios.deps.json
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\bin\Debug\net10.0\Usuarios.runtimeconfig.json
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\bin\Debug\net10.0\Usuarios.dll
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\bin\Debug\net10.0\Usuarios.pdb
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\obj\Debug\net10.0\Usuarios.dll
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\obj\Debug\net10.0\refint\Usuarios.dll
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\obj\Debug\net10.0\Usuarios.pdb
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\obj\Debug\net10.0\Usuarios.genruntimeconfig.cache
+C:\Danilo\UNT\Taller-de-lenguajes-1\SegundoParcial\TP10\tl1-tp10-2026-Danilo-HUB09\Usuarios\obj\Debug\net10.0\ref\Usuarios.dll
